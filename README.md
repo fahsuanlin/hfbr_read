@@ -7,3 +7,7 @@
 ## 2. Codes
 
 Check the codes [here](https://github.com/fahsuanlin/arduino/tree/main/hfbr_read).
+## 3. Trigger box
+
+![](https://github.com/fahsuanlin/hfbr_read/blob/main/images/hfbr_read_circuit.png) 
+
