@@ -2,6 +2,8 @@
 
 ## 1.Schematics
 
+![](https://github.com/fahsuanlin/hrbr_read/blob/master/images/Schematisc_hfbr_read.png) 
+
 
 ## 2. Codes
 
